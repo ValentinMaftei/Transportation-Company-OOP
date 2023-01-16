@@ -1,5 +1,6 @@
 # Firma de transport
 Proiectul prezentat va ajuta sa gestionati mai bine situatia firmei noastre de transport, "Valentino Logistics".
+
 Programul va permite sa introduceti si sa afisati diferite obiecte care se afla la firma.
 Veti putea afla detalii despre masinile pe care le detinem, despre cursele operate de catre noi si despre angajatii firmei.
 De asemenea, veti putea oricand sa cumparati masini (autovehicule / autoutilitare) pe care sa le folosim.
