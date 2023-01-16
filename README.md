@@ -1,6 +1,10 @@
-# Object Oriented Programming (Programare orientată pe obiecte)
+[Română :romania:](#firma-de-transport)
+
+[English :eu:](#transportation-company)
 
 # Firma de transport
+
+##### Proiectat în C++, utilizând concepte de „Programare orientată pe obiecte”.
 Proiectul prezentat va ajuta sa gestionati mai bine situatia firmei noastre de transport, "Valentino Logistics".
 
 Programul va permite sa introduceti si sa afisati diferite obiecte care se afla la firma.
@@ -42,3 +46,6 @@ de butoane, puteti face urmatoarele actiuni:
 ###### 8 - Introduceti curse
 
 ###### 9 - Curse (afisare)
+
+
+# Transportation company
