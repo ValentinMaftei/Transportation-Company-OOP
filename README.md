@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Object Oriented Programming(Programare orientată pe obiecte)
 
 # Firma de transport
 Proiectul prezentat va ajuta sa gestionati mai bine situatia firmei noastre de transport, "Valentino Logistics".
