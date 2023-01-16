@@ -1,4 +1,4 @@
-# Proiect-POO2
+# Firma de transport
 Proiectul prezentat va ajuta sa gestionati mai bine situatia firmei noastre de transport, "Valentino Logistics".
 Programul va permite sa introduceti si sa afisati diferite obiecte care se afla la firma.
 Veti putea afla detalii despre masinile pe care le detinem, despre cursele operate de catre noi si despre angajatii firmei.
@@ -17,16 +17,25 @@ de masini alese fiind printre cele mai bune din lume.
  
 ~Input valid pentru curse -> zi, luna, an, ora, plecare, destinatie, id sofer, combustibil necesar
 
-Pentru a usura munca celui care gestioneaza firma, noi am dezvoltat un meniu interactiv prin care sa simplificam programul. Prin cateva apasari simple
+Pentru a usura munca celui care gestioneaza firma, am dezvoltat un meniu interactiv prin care sa simplificam programul. Prin cateva apasari simple
 de butoane, puteti face urmatoarele actiuni:
 
 0 - Inchidere dispozitiv
+
 1 - Pornire dispozitiv
+
 2 - Introduceti autovehicul
+
 3 - Autovehicule (afisare)
+
 4 - Introduceti autoutilitara
+
 5 - Autoutilitare (afiasre)
+
 6 - Soferi (afisare)
+
 7 - Administratie (afisare)
+
 8 - Introduceti curse
+
 9 - Curse (afisare)
