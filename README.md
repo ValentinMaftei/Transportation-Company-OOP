@@ -55,7 +55,7 @@ The project will help you better manage the situation of our transport company, 
 
 The program will allow you to enter and display different objects that are at the company. You will be able to find out details about the cars we own, about the trips operated by us, and about the company's employees. Additionally, you will be able to purchase cars (passenger cars / vans) at any time that we can use. Because we do not want our drivers to have a bad experience driving the cars, we offer the best conditions, the models of cars chosen are among the best in the world.
 
-~Cars you can purchase: Renault Trafic, Ford Transit, Volkswagen Transporter (passenger cars); Volkswagen Crafter, MAN TGX, Mercedes Actross (vans);
+~Cars you can purchase: Renault.Trafic, Ford.Transit, Volkswagen.Transporter (passenger cars); Volkswagen.Crafter, MAN.TGX, Mercedes.Actross (vans);
 
 ~Valid input for cars: - for passenger cars -> model, fuel capacity, maximum weight allowed, type, category (B) - for vans -> model, fuel capacity, maximum weight allowed, type, category (C)
 
