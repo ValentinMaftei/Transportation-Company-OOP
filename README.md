@@ -13,16 +13,18 @@ De asemenea, veti putea oricand sa cumparati masini (autovehicule / autoutilitar
 Pentru ca nu dorim ca soferii nostri sa aiba parte de o experienta rea la volanul masinilor, le oferim cele mai bune conditii, modelele
 de masini alese fiind printre cele mai bune din lume.
 
+```
 ~Masini pe care le puteti achizitiona: Renault.Trafic, Ford.Transit, Volkswagen.Transporter (autovehicule);
 				       Volkswagen.Crafter, MAN.TGX, Mercedes.Actross (autoutilitare);
 
 ~Input valid pentru masini : - pentru autovehicule -> model, capacitate combustibil, masa maxima admisa, tip, categorie (B)
-		            - pentru autoutilitare -> model, capacitate combustibil, masa maxima admisa, tip, categorie (C)
+		             - pentru autoutilitare -> model, capacitate combustibil, masa maxima admisa, tip, categorie (C)
 
 ~Input valid pentru angajati: - pentru soferi -> nume, prenume, cnp, cod angajat, id sofer, categorie permis
-			     - pentru administratie -> nume, prenume, cnp, cod angajat, functie
+			      - pentru administratie -> nume, prenume, cnp, cod angajat, functie
  
 ~Input valid pentru curse -> zi, luna, an, ora, plecare, destinatie, id sofer, combustibil necesar
+```
 
 Pentru a usura munca celui care gestioneaza firma, am dezvoltat un meniu interactiv prin care sa simplificam programul. Prin cateva apasari simple
 de butoane, puteti face urmatoarele actiuni:
@@ -55,15 +57,18 @@ de butoane, puteti face urmatoarele actiuni:
 The project will help you better manage the situation of our transport company, "Valentino Logistics".
 
 The program will allow you to enter and display different objects that are at the company. You will be able to find out details about the cars we own, about the trips operated by us, and about the company's employees. Additionally, you will be able to purchase cars (passenger cars / vans) at any time that we can use. Because we do not want our drivers to have a bad experience driving the cars, we offer the best conditions, the models of cars chosen are among the best in the world.
+```
+~Cars you can purchase: Renault.Trafic, Ford.Transit, Volkswagen.Transporter (passenger cars); 
+			Volkswagen.Crafter, MAN.TGX, Mercedes.Actross (vans);
 
-~Cars you can purchase: Renault.Trafic, Ford.Transit, Volkswagen.Transporter (passenger cars); Volkswagen.Crafter, MAN.TGX, Mercedes.Actross (vans);
+~Valid input for cars: - for passenger cars -> model, fuel capacity, maximum weight allowed, type, category (B) 
+		       - for vans -> model, fuel capacity, maximum weight allowed, type, category (C)
 
-~Valid input for cars: - for passenger cars -> model, fuel capacity, maximum weight allowed, type, category (B) - for vans -> model, fuel capacity, maximum weight allowed, type, category (C)
-
-~Valid input for employees: - for drivers -> name, surname, ID number, employee code, driver ID, category of license - for administration -> name, surname, ID number, employee code, position
+~Valid input for employees: - for drivers -> name, surname, ID number, employee code, driver ID, category of license 
+                            - for administration -> name, surname, ID number, employee code, position
 
 ~Valid input for trips -> day, month, year, hour, departure, destination, driver ID, fuel needed
-
+```
 To make the work of the person managing the company easier, we have developed an interactive menu to simplify the program. With a few simple button presses, you can do the following actions:
 
 ###### 0 - Close device
