@@ -21,22 +21,22 @@ de masini alese fiind printre cele mai bune din lume.
 Pentru a usura munca celui care gestioneaza firma, am dezvoltat un meniu interactiv prin care sa simplificam programul. Prin cateva apasari simple
 de butoane, puteti face urmatoarele actiuni:
 
-0 - Inchidere dispozitiv
+###### 0 - Inchidere dispozitiv
 
-1 - Pornire dispozitiv
+###### 1 - Pornire dispozitiv
 
-2 - Introduceti autovehicul
+###### 2 - Introduceti autovehicul
 
-3 - Autovehicule (afisare)
+###### 3 - Autovehicule (afisare)
 
-4 - Introduceti autoutilitara
+###### 4 - Introduceti autoutilitara
 
-5 - Autoutilitare (afiasre)
+###### 5 - Autoutilitare (afiasre)
 
-6 - Soferi (afisare)
+###### 6 - Soferi (afisare)
 
-7 - Administratie (afisare)
+###### 7 - Administratie (afisare)
 
-8 - Introduceti curse
+###### 8 - Introduceti curse
 
-9 - Curse (afisare)
+###### 9 - Curse (afisare)
