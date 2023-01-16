@@ -49,3 +49,38 @@ de butoane, puteti face urmatoarele actiuni:
 
 
 # Transportation company
+
+###### The presented project is designed in C++, using object-oriented programming concepts. 
+The project will help you better manage the situation of our transport company, "Valentino Logistics".
+
+The program will allow you to enter and display different objects that are at the company. You will be able to find out details about the cars we own, about the trips operated by us, and about the company's employees. Additionally, you will be able to purchase cars (passenger cars / vans) at any time that we can use. Because we do not want our drivers to have a bad experience driving the cars, we offer the best conditions, the models of cars chosen are among the best in the world.
+
+~Cars you can purchase: Renault Trafic, Ford Transit, Volkswagen Transporter (passenger cars); Volkswagen Crafter, MAN TGX, Mercedes Actross (vans);
+
+~Valid input for cars: - for passenger cars -> model, fuel capacity, maximum weight allowed, type, category (B) - for vans -> model, fuel capacity, maximum weight allowed, type, category (C)
+
+~Valid input for employees: - for drivers -> name, surname, ID number, employee code, driver ID, category of license - for administration -> name, surname, ID number, employee code, position
+
+~Valid input for trips -> day, month, year, hour, departure, destination, driver ID, fuel needed
+
+To make the work of the person managing the company easier, we have developed an interactive menu to simplify the program. With a few simple button presses, you can do the following actions:
+
+###### 0 - Close device
+
+###### 1 - Start device
+
+###### 2 - Enter passenger car
+
+###### 3 - Passenger cars (display)
+
+###### 4 - Enter van
+
+###### 5 - Vans (display)
+
+###### 6 - Drivers (display)
+
+###### 7 - Administration (display)
+
+###### 8 - Enter trips
+
+###### 9 - Trips (display)
